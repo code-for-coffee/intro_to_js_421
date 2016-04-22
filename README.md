@@ -6,6 +6,11 @@ JS Workshop Code for 4/21/16
 - http://learn.shayhowe.com/
 - https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro
 
+##### Free JS Resources
+- https://www.codeschool.com/courses/javascript-road-trip-part-1
+- https://www.khanacademy.org/computing/computer-programming/programming
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 ## Employees
 
 1. Employees can be classified under things. Departments?
