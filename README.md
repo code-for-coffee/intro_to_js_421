@@ -36,6 +36,8 @@ var username = prompt('wat is ur name');
 
 ## Selecting Elements with Javascript
 
+![img.jpg](img.jpg)
+
 ```js
 //btCustomPasscode
 // mobile password input
