@@ -1,5 +1,10 @@
-# intro_to_js_421
+# Intro to Javascript 
 JS Workshop Code for 4/21/16
+
+##### Want to learn HTML & CSS? Here are _fantastic_, free resources:
+- https://dash.generalassemb.ly/
+- http://learn.shayhowe.com/
+- https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro
 
 ## Employees
 
